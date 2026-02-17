@@ -1,0 +1,19 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "name": "Ates Topu",
+      "parentIds": []
+    },
+    {
+      "id": "2",
+      "name": "Ates Yagmuru",
+      "parentIds": [ "1" ]
+    },
+    {
+      "id": "3",
+      "name": "Meteor",
+      "parentIds": [ "1", "2" ]
+    }
+  ]
+}
